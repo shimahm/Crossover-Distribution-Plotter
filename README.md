@@ -130,5 +130,3 @@ MIT License (feel free to reuse and adapt).
 
 ---
 
-**Want the N and 2N curves overlaid in the same panel per chromosome instead of separate rows?**  
-Just ask and I'll provide a small tweak for that version!
