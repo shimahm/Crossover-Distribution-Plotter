@@ -115,13 +115,6 @@ install.packages(c("dplyr","readr","tidyr","ggplot2","purrr","stringr"))
 
 ---
 
-## Citation
-
-If you use this script in your research, please acknowledge with:
-> “Crossover distribution plots generated with the CO Distribution Plotter (Shima Mahmoudi & collaborators).”
-
----
-
 ## License
 
 MIT License (feel free to reuse and adapt).
